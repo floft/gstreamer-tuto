@@ -1,4 +1,4 @@
 gstreamer-tuto
 ==============
 
-Gstreamer tutorials
+Gstreamer tutorials By http://docs.gstreamer.com
